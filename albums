@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "To Believe",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/the-cinematic-orchestra-to-believe-Cover-Art%20(1).jpg?alt=media&token=18a3174e-b0ce-4ab3-b9b3-c09f1fb5cab5",
+        "fecha_lanzamiento": "2019-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Ma Fleur",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/the-cinematic-orchestra-ma-fleur-Cover-Art.png?alt=media&token=eddab2ef-e5cb-4dc3-8a31-fff98a4a838b",
+        "fecha_lanzamiento": "2007-05-07"
+    },
+    {
+        "id": 3,
+        "name": "Every Day",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/the-cinematic-orchestra-every-day-Cover-Art.jpg?alt=media&token=5bc9201a-3069-4bc6-a46d-826cfe27a7ac",
+        "fecha_lanzamiento": "2002-05-27"
+    },
+    {
+        "id": 4,
+        "name": "Black Sands",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/bonobo-black-sands-Cover-Art.jpg?alt=media&token=9df74f64-0499-4ea6-b6e1-900aba53fda8",
+        "fecha_lanzamiento": "2010-03-29"
+    },
+    {
+        "id": 5,
+        "name": "All Melody",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/nils-frahm-all-melody-Cover-Art.jpg?alt=media&token=d78a9176-60ee-431a-9dce-ad44ed6ab8a5",
+        "fecha_lanzamiento": "2018-01-26"
+    },
+    {
+        "id": 6,
+        "name": "Felt",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/nils-frahm-felt-Cover-Art.jpg?alt=media&token=7ef6040b-91b0-4392-837c-755024bc3a3c",
+        "fecha_lanzamiento": "2011-10-01"
+    },
+    {
+        "id": 7,
+        "name": "Isla",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/portico-quartet-isla-Cover-Art.jpg?alt=media&token=a31efbd0-54ea-4a20-ac07-83b670312a31",
+        "fecha_lanzamiento": "2009-10-19"
+    },
+    {
+        "id": 8,
+        "name": "Archipelago",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/hidden-orchestra-archipelago-Cover-Art.jpg?alt=media&token=3abf10cd-78a9-4c3a-9574-d2f01cdad597",
+        "fecha_lanzamiento": "2012-10-01"
+    },
+    {
+        "id": 9,
+        "name": "Night Walks",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/hidden-orchestra-night-walks-Cover-Art.jpg?alt=media&token=38b40518-1d67-474e-8b2c-9f289534c8f3",
+        "fecha_lanzamiento": "2010-09-20"
+    },
+    {
+        "id": 10,
+        "name": "Amateur Girlfriends Go Proskirt Agents",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/xploding-plastix-amateur-girlfriends-go-proskirt-agents-Cover-Art.jpg?alt=media&token=598868c5-4637-465f-9041-ade21c506304",
+        "fecha_lanzamiento": "2001-03-12"
+    },
+    {
+        "id": 11,
+        "name": "Gone",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/floex-gone-Cover-Art.jpg?alt=media&token=a588563e-86f4-4e2d-8bc7-9790149ac374",
+        "fecha_lanzamiento": "2001-01-01"
+    },
+    {
+        "id": 12,
+        "name": "A Living Room Hush",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/jaga-jazzist-a-livingroom-hush-Cover-Art.jpg?alt=media&token=d4359d8a-3905-43b8-a3d5-97f2d21530c9",
+        "fecha_lanzamiento": "2001-10-01"
+    },
+    {
+        "id": 13,
+        "name": "Starfire",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/jaga-jazzist-starfire-Cover-Art.jpg?alt=media&token=b29471e2-2e84-4847-83e4-bffd53952b99",
+        "fecha_lanzamiento": "2015-06-01"
+    },
+    {
+        "id": 14,
+        "name": "Abu Nawas Rhapsody",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/dhaffer%20youssef.jpg?alt=media&token=434adb79-9a1f-4079-8af9-86dc2e3896a2",
+        "fecha_lanzamiento": "2010-01-25"
+    },
+    {
+        "id": 15,
+        "name": "New Conception of Jazz",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/bugge-wesseltoft-new-conception-of-jazz-Cover-Art.jpg?alt=media&token=b79cedbf-53f6-420a-ae70-66902280bc65",
+        "fecha_lanzamiento": "1996-01-01"
+    },
+    {
+        "id": 16,
+        "name": "Ghosteen",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/nick-cave-and-the-bad-seeds-ghosteen-Cover-Art.jpg?alt=media&token=1b0ee25a-85ad-4d2f-bad7-1155879d15ed",
+        "fecha_lanzamiento": "2019-10-04"
+    },
+    {
+        "id": 17,
+        "name": "Chasing After Shadows… Living With the Ghosts",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/hammock-chasing-after-shadows%E2%80%A6-living-with-the-ghosts-Cover-Art.jpg?alt=media&token=dd0b73ca-15f0-446f-a032-f492444dce1f",
+        "fecha_lanzamiento": "2010-05-18"
+    },
+    {
+        "id": 18,
+        "name": "Takk...",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/sigur-ros-takk-Cover-Art.jpg?alt=media&token=70f0fcdb-7322-411a-b7a3-e06160bb8793",
+        "fecha_lanzamiento": "2005-09-12"
+    },
+    {
+        "id": 19,
+        "name": "Valtari",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/sigur-ros-valtari-Cover-Art.jpg?alt=media&token=38fed804-4a0c-4cda-85eb-8677816b907e",
+        "fecha_lanzamiento": "2012-05-28"
+    },
+    {
+        "id": 20,
+        "name": "The Magic Place",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/julianna-barwick-the-magic-place-Cover-Art.jpg?alt=media&token=21496c65-1172-48b7-b428-bddb4c848d7d",
+        "fecha_lanzamiento": "2011-02-21"
+    },
+    {
+        "id": 21,
+        "name": "Ambient 1: Music for Airports",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/brian-eno-ambient-1-music-for-airports-Cover-Art.jpg?alt=media&token=f0560ebc-f008-40c3-b4e7-df015c62474b",
+        "fecha_lanzamiento": "1978-03-01"
+    },
+    {
+        "id": 22,
+        "name": "III",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/banks-iii-Cover-Art.jpg?alt=media&token=5ef9f1fd-4490-475d-b69f-ad54723ffb73",
+        "fecha_lanzamiento": "2019-07-12"
+    },
+    {
+        "id": 23,
+        "name": "Runaljod - Yggdrasil",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/wardruna-runaljod-%E2%80%93-yggdrasil-cover-art.jpg?alt=media&token=eaa5d54a-9189-4739-b680-522384aad23c",
+        "fecha_lanzamiento": "2013-03-15"
+    },
+    {
+        "id": 24,
+        "name": "Lift Yr. Skinny Fists Like Antennas to Heaven!",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/godspeed-you-black-emperor-lift-yr-skinny-fists-like-antennas-to-heaven-Cover-Art.jpg?alt=media&token=42559a15-a856-4793-8d61-1ac4c67c5d72",
+        "fecha_lanzamiento": "2000-10-09"
+    },
+    {
+        "id": 25,
+        "name": "LP5",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/apparat-lp5-Cover-Art.jpg?alt=media&token=dec7de94-4ed9-41b3-b289-8cb1d42f7c37",
+        "fecha_lanzamiento": "2019-03-22"
+    },
+    {
+        "id": 26,
+        "name": "Citizen of Glass",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/agnes-obel-citizen-of-glass-Cover-Art.jpg?alt=media&token=eb000bcf-430b-4a53-b525-0c21dfcfa1dd",
+        "fecha_lanzamiento": "2016-10-21"
+    },
+    {
+        "id": 27,
+        "name": "In Colour",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/jamie-xx-in-colour-Cover-Art.jpg?alt=media&token=72ed2590-2ce1-4546-a050-e950c634ead1",
+        "fecha_lanzamiento": "2015-06-01"
+    },
+    {
+        "id": 28,
+        "name": "Memoryhouse",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/rate-your-music.appspot.com/o/Max_Richter.jpg?alt=media&token=d1cacfe7-6acc-4d80-92b2-b56c9db86a1d",
+        "fecha_lanzamiento": "2002-01-01"
+    }
+]
